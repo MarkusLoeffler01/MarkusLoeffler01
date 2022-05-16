@@ -1,16 +1,14 @@
-### Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VenRoot&show_icons=true&include_all_commits=true&bg_color=252525&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**MarkusLoeffler01/MarkusLoeffler01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VenRoot&count_private=true&layout=compact&bg_color=252525&text_color=FFFFFF&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@VenRoot&bg_color=252525&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my profile :)
+
+
+I'm a standalone TypeScript/NodeJS developer, trying my best to learn and contribute to the Open Source Community!
+
+♥️GNU♥️
+♥️Free Software♥️
+♥️OpenJS♥️
